@@ -1,0 +1,1 @@
+gcc ./src/main.c ./src/Parser.c ./src/StoreVariables.c ./src/OutputPrint.c -o kestrel
