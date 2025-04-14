@@ -10,4 +10,4 @@ $(TARGET): $(OBJ)
 	$(CC) $(CFLAGS) -o $@ $^
 
 clean:
-	rm -f src/*.o build/kestrel
+	rm src/*.o build/kestrel
