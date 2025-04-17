@@ -19,7 +19,7 @@
  */
 
 #include <stdio.h>
-#include "StoreVariables.h"
+#include "store_variables.h"
 
 void print_output(const char* arg){
      int found = 0;

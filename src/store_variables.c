@@ -18,7 +18,7 @@
  * along with this program. If not, see <https://www.gnu.org/licenses/>.
  */
 
-#include "StoreVariables.h"
+#include "store_variables.h"
 #include <string.h>
 
 static Variable variables[MAX_VARIABLES];

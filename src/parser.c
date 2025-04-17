@@ -23,8 +23,8 @@
 #include <ctype.h>
 #include <stdlib.h>
 
-#include "StoreVariables.h"
-#include "OutputPrint.h"
+#include "store_variables.h"
+#include "output_print.h"
 
 void trim_spaces(char* str){
      char* src = str;

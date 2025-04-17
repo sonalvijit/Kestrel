@@ -1,2 +1,15 @@
 x = 42
 print(x)
+fb lore_msg(app){
+     return app * 2;
+}
+
+cb werb{
+     werb(self, int awq, string rew){
+          self.awq = awq;
+          self.rew = rew;
+     }
+     protected veiw_variable(self){
+          return self.awq;
+     }
+}
