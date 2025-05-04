@@ -1,1 +1,0 @@
-gcc main.c keywords.c -o language
